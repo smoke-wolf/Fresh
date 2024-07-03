@@ -15,9 +15,9 @@ body {
     padding: 10px; /* Padding inside the border */
 }
 
-/* Gradient background for a container */
+/* Gradient background with sunset orange and peach */
 .gradient-bg {
-    background: linear-gradient(to right, #3498db, #2980b9); /* Horizontal gradient from blue to darker blue */
+    background: linear-gradient(to bottom right, #ff6f61, #ffc371); /* Gradient from sunset orange to peach */
     padding: 20px; /* Padding inside the container */
     border-radius: 5px; /* Rounded corners for the container */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
