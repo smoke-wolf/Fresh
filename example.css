@@ -1,12 +1,24 @@
+/* Set background color for the entire body */
 body {
-    background-color: #2c3e50;
+    background-color: #2c3e50; /* Dark blue background */
 }
 
+/* Style for text elements */
 .text {
-    color: #ecf0f1;
-    font-size: 16px; /* Not applicable for imagestring(), but can be used for more advanced text rendering */
+    color: #ecf0f1; /* Light grey text color */
+    font-size: 16px; /* Base font size for text elements */
 }
 
+/* Style for elements with a border */
 .border {
-    color: #e74c3c;
+    border: 1px solid #e74c3c; /* Red solid border with 1px width */
+    padding: 10px; /* Padding inside the border */
+}
+
+/* Gradient background for a container */
+.gradient-bg {
+    background: linear-gradient(to right, #3498db, #2980b9); /* Horizontal gradient from blue to darker blue */
+    padding: 20px; /* Padding inside the container */
+    border-radius: 5px; /* Rounded corners for the container */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
 }
