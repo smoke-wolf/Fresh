@@ -7,12 +7,12 @@ Use this project as a free demo hosted by us or deploy it as a fully standalone 
 We also have added fresh render which allows users to include stats in their github markdown.
 #  Here's a demo!
 
-   ![Elegant Gold and Black Theme](https://shareps.000webhostapp.com/SP/MS/render.php?code=SmokeWolfDownloads&text=Total%20Installations&bg=1A1A1A&bg_fade=4A4A4A&text_colour=E3B450&border_colour=474747&font_size=28)
+   ![Elegant Gold and Black Theme](https://sharepanel.host/dev/MS/render.php?code=SmokeWolfDownloads&text=Total%20Installations&bg=1A1A1A&bg_fade=4A4A4A&text_colour=E3B450&border_colour=474747&font_size=28)
 
 
-   ![Futuristic Neon Glow Theme](https://shareps.000webhostapp.com/SP/MS/render.php?code=SmokeWolfDownloads&text=Total%20Installations&bg=000000&bg_fade=0A0A0A&text_colour=39FF14&border_colour=00FF00&font_size=24)
+   ![Futuristic Neon Glow Theme](https://sharepanel.host/dev/MS/render.php?code=SmokeWolfDownloads&text=Total%20Installations&bg=000000&bg_fade=0A0A0A&text_colour=39FF14&border_colour=00FF00&font_size=24)
 
-   ![Glowing Tech Blue Theme](https://shareps.000webhostapp.com/SP/MS/render.php?code=SmokeWolfDownloads&text=Total%20Installations&bg=0A2463&bg_fade=3E92CC&text_colour=FFFFFF&border_colour=3498DB&font_size=20)
+   ![Glowing Tech Blue Theme](https://sharepanel.host/dev/MS/render.php?code=SmokeWolfDownloads&text=Total%20Installations&bg=0A2463&bg_fade=3E92CC&text_colour=FFFFFF&border_colour=3498DB&font_size=20)
 
 
 ### Analytics Recording and Management in php
@@ -138,30 +138,30 @@ Here are some URL templates showcasing various combinations of parameters for ge
 
 1. **Template 1: Gradient Background**
    ```
-   https://shareps.000webhostapp.com/SP/MS/render.php?code=Example1&text=Analytics&bg=FF5733&bg_fade=FFC300&text_colour=FFFFFF&border_colour=FF5733&special_effects=none&font=arial.ttf&font_size=20
+   https://sharepanel.host/dev/MS/render.php?code=Example1&text=Analytics&bg=FF5733&bg_fade=FFC300&text_colour=FFFFFF&border_colour=FF5733&special_effects=none&font=arial.ttf&font_size=20
    ```
 
 2. **Template 2: Inverted Colors**
    ```
-   https://shareps.000webhostapp.com/SP/MS/render.php?code=Example2&text=Sales%20Report&bg=4CAF50&bg_fade=388E3C&text_colour=FFFFFF&border_colour=4CAF50&special_effects=invert&font=arial.ttf&font_size=18
+   https://sharepanel.host/dev/MS/render.php?code=Example2&text=Sales%20Report&bg=4CAF50&bg_fade=388E3C&text_colour=FFFFFF&border_colour=4CAF50&special_effects=invert&font=arial.ttf&font_size=18
    ```
 
 3. **Template 3: Grayscale Effect**
    ```
-   https://shareps.000webhostapp.com/SP/MS/render.php?code=Example3&text=Monthly%20Visits&bg=607D8B&bg_fade=455A64&text_colour=FFFFFF&border_colour=607D8B&special_effects=grayscale&font=arial.ttf&font_size=16
+   https://sharepanel.host/dev/MS/render.php?code=Example3&text=Monthly%20Visits&bg=607D8B&bg_fade=455A64&text_colour=FFFFFF&border_colour=607D8B&special_effects=grayscale&font=arial.ttf&font_size=16
    ```
 
 4. **Template 4: Embossed Text**
    ```
-   https://shareps.000webhostapp.com/SP/MS/render.php?code=Example4&text=Revenue%20Projection&bg=F44336&bg_fade=EF5350&text_colour=FFFFFF&border_colour=F44336&special_effects=emboss&font=arial.ttf&font_size=22
+   https://sharepanel.host/dev/MS/render.php?code=Example4&text=Revenue%20Projection&bg=F44336&bg_fade=EF5350&text_colour=FFFFFF&border_colour=F44336&special_effects=emboss&font=arial.ttf&font_size=22
    ```
 
 5. **Template 5: Blurred Background**
    ```
-   https://shareps.000webhostapp.com/SP/MS/render.php?code=Example5&text=Customer%20Satisfaction&bg=9C27B0&bg_fade=AB47BC&text_colour=FFFFFF&border_colour=9C27B0&special_effects=blur&font=arial.ttf&font_size=24
+   https://sharepanel.host/dev/MS/render.php?code=Example5&text=Customer%20Satisfaction&bg=9C27B0&bg_fade=AB47BC&text_colour=FFFFFF&border_colour=9C27B0&special_effects=blur&font=arial.ttf&font_size=24
    ```
 
 6. **Template 6: Sketched Effect**
    ```
-   https://shareps.000webhostapp.com/SP/MS/render.php?code=Example6&text=Product%20Launch&bg=FF9800&bg_fade=FFB74D&text_colour=FFFFFF&border_colour=FF9800&special_effects=sketch&font=arial.ttf&font_size=20
+   https://sharepanel.host/dev/MS/render.php?code=Example6&text=Product%20Launch&bg=FF9800&bg_fade=FFB74D&text_colour=FFFFFF&border_colour=FF9800&special_effects=sketch&font=arial.ttf&font_size=20
    ```
