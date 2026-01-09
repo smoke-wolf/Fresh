@@ -5,15 +5,9 @@ Fresh analytics for views... that's all for now. 🥳 Increase your insights wit
 Use this project as a free demo hosted by us or deploy it as a fully standalone app on your own server. 
 
 We also have added fresh render which allows users to include stats in their github markdown.
-#  Here's a demo!
 
-   ![Elegant Gold and Black Theme](https://sharepanel.host/dev/MS/render.php?code=SmokeWolfDownloads&text=Total%20Installations&bg=1A1A1A&bg_fade=4A4A4A&text_colour=E3B450&border_colour=474747&font_size=28)
-
-
-   ![Futuristic Neon Glow Theme](https://sharepanel.host/dev/MS/render.php?code=SmokeWolfDownloads&text=Total%20Installations&bg=000000&bg_fade=0A0A0A&text_colour=39FF14&border_colour=00FF00&font_size=24)
-
-   ![Glowing Tech Blue Theme](https://sharepanel.host/dev/MS/render.php?code=SmokeWolfDownloads&text=Total%20Installations&bg=0A2463&bg_fade=3E92CC&text_colour=FFFFFF&border_colour=3498DB&font_size=20)
-
+> [!IMPORTANT]
+> The domain I had previously been using to host it publicly has been disabled - please rehost your own version of this project!
 
 ### Analytics Recording and Management in php
 
