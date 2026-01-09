@@ -218,7 +218,7 @@ HTML;
 }
 
 if ($mode === 'write' && !empty($code) && !isset($data[$code])) {
-    echo "<br>URL: https://sharepanel.host/dev/MS/?mode=write&code=$code";
+    echo "<br>URL: https://yourdomain.com?mode=write&code=$code";
 }
 
 echo <<<HTML
