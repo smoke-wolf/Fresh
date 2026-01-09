@@ -7,7 +7,8 @@ Use this project as a free demo hosted by us or deploy it as a fully standalone 
 We also have added fresh render which allows users to include stats in their github markdown.
 
 > [!IMPORTANT]
-> The domain I had previously been using to host it publicly has been disabled - please rehost your own version of this project!
+> The url I had previously been using to host it publicly has been disabled - please rehost your own version of this project!
+> If you want a quick rehost solution - you can deploy it as an instance through [SharePanel Host](https://sharepanel.host/signup.php?ref=1) - No Code Needed!
 
 ### Analytics Recording and Management in php
 
